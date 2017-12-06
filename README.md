@@ -3,6 +3,8 @@ The default Gatsby starter
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
 
+This isa project to show integration of gatsby with netlify
+
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
 gatsby new gatsby-example-site
