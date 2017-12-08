@@ -10,6 +10,7 @@ const IndexPage = () => (
     <blockquote>
       Lorem ipsum dolor sit amet, at probatus corrumpit mea. Feugait civibus sea ne, ex est detracto erroribus laboramus, sed te volumus omittam prodesset. Nam voluptua appareat efficiantur ne. Duo in sumo prima, harum choro vulputate in vis. Sea eu vide perfecto.
     </blockquote>
+    <p>Just showing off stuff to Mark</p>
     <h2>Some links to look at:</h2>
     <ul>
       <li>
