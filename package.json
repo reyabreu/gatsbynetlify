@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-netlify-contentful",
+  "description": "Gatsby Netlify + Contentful",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
@@ -8,7 +8,9 @@
     "gatsby-cli": "^1.1.25",
     "gatsby-link": "^1.6.30",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-source-contentful": "^1.3.28"
+    "gatsby-source-contentful": "^1.3.28",
+    "hoek": "^5.0.3",
+    "serve": "^9.3.0"
   },
   "keywords": [
     "gatsby"
